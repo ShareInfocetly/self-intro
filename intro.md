@@ -1,5 +1,5 @@
 #self-intro
 Hi! My name is "Priyamvada Prakash"
 I am currently persuing Btech degree in electronics and communication at COET 
-Intresting in Coding
+Intrested in Coding
 
