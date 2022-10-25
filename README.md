@@ -24,4 +24,9 @@ Hi! My name is "Lince Joseph"
 I am Currently persuing Btech degree in ElectronicS and Communication Engineering
 Intrested in Coding and to learn new programming languages
 
+# self-intro
+Hi! My name is "Aadith Sunil"
+I am pursuing Btech degree in  Computer science and engineering
+Intrested in coding
+
 
