@@ -44,3 +44,8 @@ Intrested in coding
 
 VISHNU P
 
+# self-intro
+Hi! My name is "Shan Paul"
+I am pursuing Btech degree in  Computer science and engineering
+Intrested in coding
+...................
