@@ -2,7 +2,9 @@
 
 
 # self-intro
-Hi! My name is "Abhinav Vinayarajan"
+Hi! My name is "rijin"
+
+
 I am pursuing Btech degree in  Electronics and Communication
 Intrested in coding
 ..........
@@ -10,7 +12,7 @@ Intrested in coding
 ..........
 # self-intro 1
 Hi! My name is "Mahima KV"
-I am pursuing Btech degree in Electrical and Electronics
+I am pursuing Btech degpramodaree in Electrical and Electronics
 Intrested in coding
 inside div in INDEX.html add :
 Hi! My name is "SAYOOJ S"
@@ -31,7 +33,11 @@ Intrested in coding
 ...................
 
 
+
 # self-intro
 Hi! My name is "Arathy Balakrishnan"
 I am pursuing Btech degree in  Electrical and electronic
 Intrested in coding
+
+VISHNU P
+
