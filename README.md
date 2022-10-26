@@ -43,4 +43,8 @@ I am pursuing Btech degree in  Electrical and electronic
 Intrested in coding
 
 VISHNU P
+# self-intoduction
+Hello..! My name is "JISHNU E"
+I am pursuing Btech degree in Electronic & Communication
+Interested to design ciruits
 
