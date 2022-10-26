@@ -44,3 +44,8 @@ Intrested in coding
 
 VISHNU P
 
+# self-intro 
+Hi! My name is "Bipindas"
+I am pursuing Btech degpramodaree in ElectronicS and Communication Engineering
+Intrested in coding
+
