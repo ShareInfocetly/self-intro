@@ -9,6 +9,9 @@ I am pursuing Btech degree in  Electronics and Communication
 Intrested in coding
 ..........
 ..........
+Hi! My name is "HRIDYA "
+I am pursuing Btech degree in  Electronics and Communication
+Intrested in coding, singing
 ..........
 # self-intro 1
 Hi! My name is "Mahima KV"
