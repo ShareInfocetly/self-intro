@@ -44,3 +44,6 @@ Intrested in coding
 
 VISHNU P
 
+Hi! My name is "MIDHUN"
+I am pursuing Btech degree in  Electronics and Communication
+Intrested in coding
